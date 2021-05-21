@@ -1,5 +1,5 @@
 # chainer
-
+[![Go](https://github.com/fuzzing-stuff/chainer/actions/workflows/go.yml/badge.svg)](https://github.com/fuzzing-stuff/chainer/actions/workflows/go.yml)
 
 Library to generate binary stream from DSLed file
 
